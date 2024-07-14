@@ -31,21 +31,21 @@ This repository contains three different machine learning projects showcasing va
 
 ## Getting Started
 
-To get started with these projects, clone the repository and navigate to the respective project notebook files. Each notebook contains detailed explanations and code to guide you through the implementation.
 
-```bash
-git clone https://github.com/OmarGamill/DeepLearningProjects.git
-cd DeepLearningProjects
+1- To get started with these projects, clone the repository and navigate to the respective project notebook files. Each notebook contains detailed explanations and code to guide you through the implementation.
+    ```bash
+    git clone https://github.com/OmarGamill/DeepLearningProjects.git
+    cd DeepLearningProjects
 
 2- Ensure you have the necessary libraries installed. You can install the required packages using the following command:
-  ```bash
-  pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3- Open each Jupyter notebook file to explore the respective project:
-  ```bash
-  jupyter notebook Auto_mpg_data.ipynb
-  jupyter notebook Mnist_deep_learning.ipynb
-  jupyter notebook classification_cats&dogs.ipynb
+    ```bash
+    jupyter notebook Auto_mpg_data.ipynb
+    jupyter notebook Mnist_deep_learning.ipynb
+    jupyter notebook classification_cats&dogs.ipynb
 
 ## Contact
 For questions or feedback, reach out to your- omargamel258@gmail.com
